@@ -1,5 +1,3 @@
-# 📖 Structura - README.md
-
 # 📂 Structura
 
 > **Convert directory structures and files into organized markdown documentation**

@@ -1,6 +1,5 @@
 # 📖 Structura - README.md
 
-```markdown
 # 📂 Structura
 
 > **Convert directory structures and files into organized markdown documentation**
@@ -61,7 +60,7 @@ cp structura.js ./
 
 # Run directly with Node.js
 node structura.js ./src ./output.md
-```
+
 
 ### Optional: Project Setup
 

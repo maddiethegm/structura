@@ -182,7 +182,7 @@ Create a `config.json` file in your project directory to customize behavior:
 
 ```markdown
 ### Directory Structure
-```text
+```markdown
 config.yaml
 invRoutes.js
 LICENSE
@@ -196,6 +196,7 @@ src/
     dbconnector/
       connectionManager.js
       queryConstructor.js
+    ```
 ```
 
 ### File Contents Section
@@ -220,6 +221,7 @@ class UserController {
     // ...
 }
 module.exports = UserController;
+\```
 ```
 ---
 

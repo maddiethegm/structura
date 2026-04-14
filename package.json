@@ -1,0 +1,14 @@
+{
+  "name": "structura",
+  "version": "1.0.0",
+  "description": "Convert directories into ordered markdown files for ingestion into coding assistant tools.",
+  "main": "structura.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "author": "Madeline Williams",
+  "license": "MIT"
+}

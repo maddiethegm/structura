@@ -1,0 +1,33 @@
+{
+  "sourceDir": "./src",
+  "outputFile": "./output.md",
+  "exclusions": {
+    "directories": [
+      "node_modules",
+      ".git",
+      "dist",
+      "build",
+      ".idea"
+    ],
+    "files": [
+      "*.log",
+      "*.tmp",
+      "*.cache"
+
+    ],
+    "names": [
+      "package-lock.json",
+      "package-lock.json",
+      "yarn.lock",
+      ".DS_Store",
+      "Thumbs.db",
+      ".gitignore",
+      ".env"
+    ]
+  },
+  "options": {
+    "includeHidden": true,
+    "maxFileSizeMB": 2,
+    "symlinkHandling": "skip"
+  }
+}
